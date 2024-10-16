@@ -1,2 +1,2 @@
 # tarea_hello_world
-Plantilla de ejemplo para prueba de Github Classroom
+Plantilla de ejemplo para prueba de Github Classroom en R
