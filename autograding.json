@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Test addition",
-      "run": "pytest tests/test_example.py",
-      "points": 5
+      "name": "Test addition function",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_example.R\")'",
+      "points": 1
     }
   ]
 }
